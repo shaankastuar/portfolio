@@ -1,0 +1,24 @@
+#header{ height: 80px;
+background-color: #ffffff;
+border: solid 8px #cccccc;
+
+}
+
+#left { width: 33.33%%;
+	float: left;
+	color: #fff;
+	background: #4aaaa5;
+	border-bottom: #cccccc;
+	font-family: Georgia;
+	border: solid #cccccc;
+	padding: 10px solid black;
+	margin-left: 40px;
+
+}
+
+#right {width: 33.33%;
+float: right;} 
+
+#right li{display: inline;
+
+}
